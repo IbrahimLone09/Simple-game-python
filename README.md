@@ -63,16 +63,6 @@ scissors
 
 ---
 
-## Game Rules
-
-Player Choice| Computer Choice| Result
-Rock| Scissors| Player Wins
-Paper| Rock| Player Wins
-Scissors| Paper| Player Wins
-Same Choice| Same Choice| Draw
-
----
-
 ## Example Output
 
 Type Rock/paper/scissors or Q to quit: rock
